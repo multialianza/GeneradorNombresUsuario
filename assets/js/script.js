@@ -40,3 +40,4 @@ document.getElementById("btnGenerar").addEventListener("click", function () {
     console.log("=".repeat(50) + "\n");
 });
 
+
